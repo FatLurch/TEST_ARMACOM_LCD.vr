@@ -10,4 +10,4 @@ Once the mission loads you will see a list of the available COM ports printed to
 
 Go into the init.sqf file and set ```com =``` *the COM port you want to use* (e.g. ```com = COM1```)
 
-You can change which data is sent to the display by editing which ```_data =```... lines are commented
+You can change which data is sent to the display by editing which ```_data =``` lines are commented
