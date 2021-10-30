@@ -12,5 +12,7 @@ Go into the init.sqf file and set ```com =``` *the COM port you want to use* (e.
 
 You can change which data is sent to the display by editing which ```_data =``` lines are commented
 
+If you are having issues seeing the text clearly, adjust the potentiometer on the back of the display
+
 ![Example](http://tsog-milsim.com/images/20211030_010332.jpg)
 
